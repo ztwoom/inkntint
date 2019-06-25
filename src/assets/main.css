@@ -1,5 +1,9 @@
-@import "tailwindcss/base";
+@tailwind "tailwindcss/base";
 
-@import "tailwindcss/components";
+@tailwind "tailwindcss/components";
 
-@import "tailwindcss/utilities";
+@tailwind "tailwindcss/utilities";
+
+.svg-inline--fa {
+    @apply text-2xl !important;
+}
