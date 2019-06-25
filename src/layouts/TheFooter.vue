@@ -10,14 +10,14 @@
           <span
             class="h-12 w-12 flex justify-center items-center m-1 rounded-full hover:bg-blue-100"
           >
-            <font-awesome icon="phone-alt" class="text-2xl"></font-awesome>
+            <font-awesome icon="phone-alt"></font-awesome>
           </span>
         </a>
         <a href="mailto:test@c.com" aria-label="Enviar email">
           <span
             class="h-12 w-12 flex justify-center items-center m-1 rounded-full hover:bg-blue-100"
           >
-            <font-awesome icon="envelope" class="text-2xl"></font-awesome>
+            <font-awesome icon="envelope"></font-awesome>
           </span>
         </a>
       </div>
