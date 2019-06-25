@@ -16,8 +16,7 @@
       <div class="grid-col-1/-1 grid-row-1 z-20">
         <ink-container class="py-16">
           <div
-            class="card-gradient--light rounded-lg shadow-2xl py-8 px-5 border-t-8 border-blue-700"
-            :style="{ '--to': 'right' }"
+            class="card-gradient-r--light rounded-lg shadow-2xl py-8 px-5 border-t-8 border-blue-700"
           >
             <i-phone></i-phone>
             <h3 class="text-2xl font-bold text-blue-900 mt-8">Aplicaciones Móviles</h3>
@@ -48,8 +47,7 @@
       <div class="z-20 grid-col-1/-1 grid-row-2">
         <ink-container class="py-16">
           <div
-            class="card-gradient--light rounded-lg shadow-2xl py-8 px-5 border-t-8 border-blue-700"
-            :style="{ '--to': 'left' }"
+            class="card-gradient-l--light rounded-lg shadow-2xl py-8 px-5 border-t-8 border-blue-700"
           >
             <i-laptop></i-laptop>
             <h3 class="text-2xl font-bold text-blue-900 mt-8">Aplicaciones Web Híbridas</h3>
@@ -86,13 +84,14 @@ export default {
 </script>
 
 <style>
-.card-gradient--light {
-  --to: "right";
+.card-gradient-r--light {
   background-image: linear-gradient(
-    to var(--to),
-    white,
+    to right,
+    #ffffff,
     theme("colors.blue.200")
   );
 }
+.card-gradient-l--light {
+  background-image: linear-gradient(to left, #ffffff, theme("colors.blue.200"));
+}
 </style>
-
