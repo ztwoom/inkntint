@@ -15,7 +15,7 @@ module.exports = {
         presetEnvConfig: {},
         shouldPurge: true,
         shouldImport: true,
-        shouldTimeTravel: true,
+        shouldTimeTravel: false,
       }
     }
   ]
