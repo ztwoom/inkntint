@@ -5,7 +5,9 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Gridsome',
+  siteName: 'inkntint',
+  siteUrl: 'https://inkntint.com',
+  titleTemplate: 'inkntint - %s',
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
