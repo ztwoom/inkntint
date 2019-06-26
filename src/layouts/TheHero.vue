@@ -1,5 +1,5 @@
 <template>
-  <div class="hero rounded-bl-320">
+  <div class="hero rounded-bl-xs sm:rounded-bl-sm md:rounded-bl-md">
     <slot/>
   </div>
 </template>

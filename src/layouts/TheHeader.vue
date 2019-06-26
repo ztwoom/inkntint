@@ -1,7 +1,7 @@
 <template>
   <header>
-    <ink-container class="h-16 flex justify-between items-center">
-      <div class="text-white font-bold text-2xl">inkntint</div>
+    <ink-container class="h-24 flex justify-between items-center">
+      <div class="text-white font-bold text-3xl">inkntint</div>
       <div class="flex">
         <a href="tel:+300" aria-label="Llamar">
           <span
