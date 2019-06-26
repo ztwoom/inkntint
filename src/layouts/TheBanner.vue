@@ -9,14 +9,17 @@
           class="text-xl text-blue-300 font-semibold mt-4 leading-relaxed"
         >Solo cuéntanos los detalles y nosotros haremos el resto.</h2>
         <div class="mt-6">
-          <button type="button" class="bg-blue-400 px-4 h-12 rounded shadow-lg hover:bg-blue-500">
+          <button
+            type="button"
+            class="bg-blue-400 px-4 h-12 rounded-lg shadow-lg hover:bg-blue-500"
+          >
             <a
-              href="http://wa.me/11111"
+              href="http://wa.me/19414130600?text=¡Oye!%20Quiero%20cotizar%20una%20app%20para"
               target="__blank"
               class="text-white text-lg flex items-center"
             >
-              <span class="mr-2 font-semibold">Cotizar gratis</span>
-              <font-awesome :icon="['fab', 'whatsapp']" class="text-xl"></font-awesome>
+              <span class="mr-2 font-semibold">Cotizar Gratis</span>
+              <font-awesome :icon="['fab', 'whatsapp']" class="text-2xl"></font-awesome>
             </a>
           </button>
         </div>
