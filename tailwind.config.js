@@ -22,15 +22,30 @@ module.exports = {
       },
       pink: {
         600: '#D4088C'
+      },
+    },
+    extend: {
+      width: {
+        416: '26rem'
+      },
+      height: {
+        480: '30rem'
       }
     },
     borderRadius: {
       ...defaultTheme.borderRadius,
-      320: '1.25rem'
+      xs: '5.25rem',
+      sm: '8.25rem',
+      md: '10.25rem'
     },
     inset: {
       ...defaultTheme.inset,
       '-n-half': '-50%'
+    },
+    screens: {
+      ...defaultTheme.screens,
+      lg: '992px',
+      xl: '1200px'
     }
   },
   variants: {},
