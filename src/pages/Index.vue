@@ -23,7 +23,7 @@ export default {
     htmlAttrs: {
       lang: "es"
     },
-    title: "Aplicaciones Móviles y Web en tiempo récord",
+    title: "Construimos aplicaciones Móviles y Web en tiempo récord",
     meta: [
       {
         name: "title",
@@ -34,7 +34,7 @@ export default {
       {
         name: "description",
         content:
-          "Construimos aplicaciones móviles multiplataforma para Android, iOS y Escritorio de alto rendimiento desde el mismo código fuente"
+          "Construimos aplicaciones móviles multiplataforma para Android, iOS, Web y Escritorio de alto rendimiento desde el mismo código fuente"
       },
       // og - facebook
       { property: "og:type", content: "website" },
@@ -48,7 +48,7 @@ export default {
       {
         property: "og:description",
         content:
-          "Construimos aplicaciones móviles multiplataforma para Android, iOS y Escritorio de alto rendimiento desde el mismo código fuente"
+          "Construimos aplicaciones móviles multiplataforma para Android, iOS, Web y Escritorio de alto rendimiento desde el mismo código fuente"
       },
       {
         property: "og:image",
@@ -67,12 +67,12 @@ export default {
         property: "twitter:title",
         content: "inkntint",
         template: chunk =>
-          `${chunk} - Aplicaciones Móviles y Web en tiempo récord`
+          `${chunk} - Construimos aplicaciones Móviles y Web en tiempo récord`
       },
       {
         property: "twitter:description",
         content:
-          "Construimos aplicaciones móviles multiplataforma para Android, iOS y Escritorio de alto rendimiento desde el mismo código fuente"
+          "Construimos aplicaciones móviles multiplataforma para Android, iOS, Web y Escritorio de alto rendimiento desde el mismo código fuente"
       },
       {
         property: "twitter:image",
