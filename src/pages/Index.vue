@@ -52,7 +52,7 @@ export default {
       },
       {
         property: "og:image",
-        content: "htpps://inkntint.com/og-image.jpg"
+        content: "https://inkntint.com/og-image.jpg"
       },
       // twitter
       {
@@ -61,7 +61,7 @@ export default {
       },
       {
         property: "twitter:url",
-        content: "htpps://inkntint.com/"
+        content: "https://inkntint.com/"
       },
       {
         property: "twitter:title",
@@ -76,7 +76,7 @@ export default {
       },
       {
         property: "twitter:image",
-        content: "htpps://inkntint.com/og-image.jpg"
+        content: "https://inkntint.com/og-image.jpg"
       }
     ]
   },
