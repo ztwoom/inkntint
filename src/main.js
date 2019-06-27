@@ -7,7 +7,7 @@ import { faPhoneAlt, faEnvelope, faCheckCircle, faCopyright } from '@fortawesome
 import { faWhatsapp } from '@fortawesome/free-brands-svg-icons';
 import '@fortawesome/fontawesome-svg-core/styles.css';
 
-config.autoAddCss = false;
+config.autoAddCss = true;
 library.add(faPhoneAlt, faEnvelope, faWhatsapp, faCheckCircle, faCopyright);
 import '@fortawesome/fontawesome-svg-core/styles.css';
 
