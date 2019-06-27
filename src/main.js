@@ -1,6 +1,6 @@
 // This is the main.js file. Import global CSS and scripts here.
 // The Client API can be used here. Learn more: gridsome.org/docs/client-api
-
+import '@fortawesome/fontawesome-svg-core/styles.css';
 import './assets/main.css';
 import 'typeface-lato';
 import InkContainer from '~/components/InkContainer.vue';
