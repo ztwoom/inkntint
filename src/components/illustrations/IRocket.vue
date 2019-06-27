@@ -1,87 +1,87 @@
 <template>
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 316 237">
-    <g id="rocket" transform="translate(-151.4 -150.7)">
-      <g id="sky">
+    <g data-spirit-id="rocket" transform="translate(-151.4 -150.7)">
+      <g data-spirit-id="sky">
         <path
-          id="sky-body"
+          data-spirit-id="sky-body"
           fill="#ebf5ff"
           d="M468.2 295a140 140 0 0 0-44.7-41.8A184.6 184.6 0 0 0 327 226c-32 .5-65.8 15.2-83.2 45.6-14 24.7-18.4 47.7-41.2 66.2-15.8 12.7-41.1 17-49 34.8a31.3 31.3 0 0 0-2.1 15.7h316.6z"
         ></path>
         <path
-          id="left-cloud"
+          data-spirit-id="left-cloud"
           fill="#fff"
           d="M266.4 266.1a4 4 0 0 1 4.1-.9 6.1 6.1 0 0 1 6-4.2c6.4 0 6.9 6.2 6.9 6.2 4.4-1.3 5.3 2.6 5.3 2.8h-24a5 5 0 0 1 1.7-3.9z"
         ></path>
         <path
-          id="right-cloud"
+          data-spirit-id="right-cloud"
           fill="#fff"
           d="M387.3 277.6a6.4 6.4 0 0 1 3.2.8 10.2 10.2 0 0 1 17.5-.6 8 8 0 0 1 15.7 1.4 6.4 6.4 0 0 1 1 0 6.5 6.5 0 0 1 5.7 3.5H381a6.6 6.6 0 0 1 6.3-5.1z"
         ></path>
       </g>
-      <g id="stars">
+      <g data-spirit-id="stars">
         <path
-          id="star-1"
+          data-spirit-id="star-1"
           fill="#ebf5ff"
           d="M3.4 0A3.4 3.4 0 1 1 0 3.4 3.4 3.4 0 0 1 3.4 0z"
           transform="translate(352.3 150.7)"
         ></path>
         <path
-          id="star-2"
+          data-spirit-id="star-2"
           fill="#84b4fe"
           d="M280.5 225.5a2.3 2.3 0 1 1-2.3-2.3 2.3 2.3 0 0 1 2.3 2.3z"
         ></path>
         <path
-          id="star-3"
+          data-spirit-id="star-3"
           fill="#ebf5ff"
           d="M372 213.5l-1.4-.7a.5.5 0 0 1-.2-.2l-.7-1.4a.5.5 0 0 0-1 0l-.6 1.4a.5.5 0 0 1-.2.2l-1.4.7a.5.5 0 0 0 0 .9l1.4.7a.5.5 0 0 1 .2.2l.7 1.4a.5.5 0 0 0 .9 0l.7-1.4a.5.5 0 0 1 .2-.2l1.4-.7a.5.5 0 0 0 0-.9z"
         ></path>
         <path
-          id="star-4"
+          data-spirit-id="star-4"
           fill="#c1ddf7"
           d="M291.2 167.7l-1.7-1a.6.6 0 0 1-.3-.2l-.9-1.8a.6.6 0 0 0-1 0l-1 1.8a.6.6 0 0 1-.3.2l-1.7 1a.6.6 0 0 0 0 1l1.7 1a.6.6 0 0 1 .3.2l1 1.8a.6.6 0 0 0 1 0l1-1.8a.6.6 0 0 1 .2-.2l1.7-1a.6.6 0 0 0 0-1z"
         ></path>
         <path
-          id="star-5"
+          data-spirit-id="star-5"
           fill="#c1ddf7"
           d="M411 202.3l-2-1a.8.8 0 0 1-.4-.4l-1-2a.8.8 0 0 0-1.4 0l-1.1 2a.8.8 0 0 1-.3.3l-2.1 1.1a.8.8 0 0 0 0 1.4l2 1a.8.8 0 0 1 .4.4l1 2a.8.8 0 0 0 1.4 0l1.1-2a.7.7 0 0 1 .3-.3l2.1-1.1a.8.8 0 0 0 0-1.4z"
         ></path>
         <path
-          id="star-6"
+          data-spirit-id="star-6"
           fill="#84b4fe"
           d="M248.2 194.3l-1.9-1a.7.7 0 0 1-.3-.3l-1-2a.7.7 0 0 0-1.2 0l-1 2a.7.7 0 0 1-.3.3l-2 1a.7.7 0 0 0 0 1.2l2 1a.7.7 0 0 1 .3.3l1 2a.7.7 0 0 0 1.2 0l1-2a.7.7 0 0 1 .3-.3l2-1a.7.7 0 0 0 0-1.2z"
         ></path>
         <path
-          id="star-7"
+          data-spirit-id="star-7"
           fill="#84b4fe"
           d="M376 182.4l-1.5-.8a.5.5 0 0 1-.2-.2l-.7-1.4a.5.5 0 0 0-1 0l-.7 1.4a.5.5 0 0 1-.2.2l-1.4.8a.5.5 0 0 0 0 .9l1.4.7a.5.5 0 0 1 .2.2l.8 1.4a.5.5 0 0 0 .9 0l.7-1.4a.5.5 0 0 1 .2-.2l1.4-.7a.5.5 0 0 0 0-1z"
         ></path>
       </g>
       <path
-        id="rocket-exhaust-rec"
+        data-spirit-id="rocket-exhaust-rec"
         fill="#fff"
         d="M0 0h20v93.6H0z"
         transform="translate(317 283.4)"
       ></path>
       <path
-        id="rocket-exhaust-cloud"
+        data-spirit-id="rocket-exhaust-cloud"
         fill="#fff"
         stroke="rgba(0,0,0,0)"
         d="M-348.7-219.7h-272.7a42 42 0 0 1 6.5-6 42 42 0 0 1 7.6-4.6 42 42 0 0 1 8.5-2.8 42.7 42.7 0 0 1 9.3-1 42.5 42.5 0 0 1 11.2 1.4 42 42 0 0 1 10 4.3 30.9 30.9 0 0 1 4.8-7.7 31.4 31.4 0 0 1 6.6-6 31.6 31.6 0 0 1 17.7-5.4 31.8 31.8 0 0 1 10 1.6 31.4 31.4 0 0 1 8.8 4.6 23.1 23.1 0 0 1 6.6-5.6 23.2 23.2 0 0 1 8.3-2.8 11 11 0 0 1-1-4.8 11 11 0 0 1 3.2-7.9 11.3 11.3 0 0 1 8-3.2 11.3 11.3 0 0 1 6.8 2.2 11.3 11.3 0 0 1 4 5.6 13.9 13.9 0 0 1 4.4-.6 13.8 13.8 0 0 1 4.7.8 16.4 16.4 0 0 1 2.7-1.6 7.5 7.5 0 0 1-1.4-4.5 7.7 7.7 0 0 1 7.7-7.6 7.7 7.7 0 0 1 7.7 7.6 7.5 7.5 0 0 1-1.1 4 16.2 16.2 0 0 1 7.5 5.8 15.8 15.8 0 0 1 2.9 9.1v1.5a35.5 35.5 0 0 1 4 1.2 20.9 20.9 0 0 1 14-5.4 21 21 0 0 1 7.1 1.2 20.8 20.8 0 0 1 6 3.4 20.5 20.5 0 0 1 7.2 11.6 44.6 44.6 0 0 1 25.5-8 44.5 44.5 0 0 1 37 19.6z"
         transform="translate(802 608)"
       ></path>
-      <g id="rocket-body">
+      <g data-spirit-id="rocket-body">
         <path
-          id="rocket-flame"
+          data-spirit-id="rocket-flame"
           fill="#ebf5ff"
           d="M334.6 288.8a7.3 7.3 0 0 0-14.5 0s-1 17.2 7.3 26.4c8.2-9.2 7.2-26.4 7.2-26.4z"
         ></path>
         <path
-          id="left-wind"
+          data-spirit-id="left-wind"
           fill="#84b4fe"
           d="M301.9 249.3s-27.3 13.2-16.5 52.2c0 0 5.8-19.6 24.3-24.7z"
         ></path>
         <path
-          id="right-wind"
+          data-spirit-id="right-wind"
           fill="#84b4fe"
           d="M353 249.3s27.3 13.2 16.5 52.2c0 0-5.7-19.6-24.3-24.7z"
         ></path>
@@ -98,7 +98,7 @@
           d="M324.2 153a93.7 93.7 0 0 0-16.7 28.3h41a69.4 69.4 0 0 0-17.2-28.7 5 5 0 0 0-7.1.3z"
         ></path>
         <path
-          id="center-wind"
+          data-spirit-id="center-wind"
           fill="#84b4fe"
           d="M326.7 237.5s-12.5 28.6 0 62.6c0 0 14-28.3 0-62.6z"
         ></path>
