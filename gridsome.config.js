@@ -8,7 +8,7 @@ module.exports = {
       options: {
         tailwindConfig: './tailwind.config.js',
         purgeConfig: {
-          content: ['**/*.vue'],
+          content: ['**/*.js', '**/*.vue'],
           whiteList: ['svg-inline--fa', 'fa-check-circle', 'fa-w-16']
         },
         presetEnvConfig: {},
