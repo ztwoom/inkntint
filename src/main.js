@@ -9,11 +9,11 @@ import InkGrid from '~/components/InkGrid.vue';
 export default function (Vue, { router, head, isClient }) {
   head.script.push({
     src: 'https://unpkg.com/spiritjs/dist/spirit.min.js',
-    body: true
+    body: false
   })
   head.script.push({
     src: './spirit.js',
-    body: true
+    body: false
   })
   // Set default layout as a global component
   Vue.component('InkContainer', InkContainer)
