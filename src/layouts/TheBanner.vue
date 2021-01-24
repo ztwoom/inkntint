@@ -14,7 +14,7 @@
             class="bg-blue-400 px-4 h-12 rounded-lg shadow-lg hover:bg-blue-500"
           >
             <a
-              href="http://wa.me/19414130600?text=¡Oye!%20Quiero%20cotizar%20una%20app%20para"
+              href="http://wa.me/573134854926?text=¡Oye!%20Quiero%20cotizar%20una%20app%20para"
               target="__blank"
               class="text-white text-lg flex items-center"
             >
