@@ -6,7 +6,7 @@
         <span class="font-bold ml-2">inkntint</span>
       </div>
       <div class="flex">
-        <a href="tel:+573134854926" aria-label="Llamar">
+        <a href="tel:+56937865053" aria-label="Llamar">
           <span
             class="h-12 w-12 flex justify-center items-center m-1 rounded-full hover:bg-blue-100"
           >
